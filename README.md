@@ -1,4 +1,4 @@
-# GoCodeColorado-kbase-public
+# Go Code Colorado Public Knowledge Base
 
 Resources for participants in Go Code Colorado. There are
   - Resources for Judging
