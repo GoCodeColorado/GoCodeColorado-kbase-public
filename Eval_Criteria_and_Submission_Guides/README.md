@@ -7,3 +7,4 @@
     3. Create a video recording of your powerpoint with narration using Loom
         a. Include a link to your Loom video in your README
     4. Document how to use your product/analysis in your README
+    5. Video is 5 min maxf
