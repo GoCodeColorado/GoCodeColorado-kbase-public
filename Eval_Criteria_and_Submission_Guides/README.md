@@ -5,6 +5,6 @@
 1. Use the powerpoint template to create a slideshow of your submission
     1. Leave a copy of your team powerpoint in your team repo
 1. Create a video recording of your powerpoint with narration using Loom
-    1. Video must be 5 min max
+    1. Video must be **5 min max**
 1. Include a link to your Loom video in your README.md
 1. Document how to use your product/analysis in your README.md
