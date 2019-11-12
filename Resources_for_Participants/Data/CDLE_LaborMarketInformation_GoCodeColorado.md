@@ -1,5 +1,5 @@
 ![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/gcc_logo_2019.png)
-![cdle_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/cdle_logo.jpg)
+![cdle_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/cdle_logo.jpg)
 # CDLE Resources - Labor Market Information Data
 
 **Last Updated:** 3/20/2019
