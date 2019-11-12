@@ -40,7 +40,7 @@ Thefielddescriptionsforthesedatasetscanbelocatedbyselecting&quot;ViewData&quot;\
 
 These datasets utilize the North American Industry Classification System ([NAICS](https://www.census.gov/eos/www/naics/)). The NAICS is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy. The CDLE has its own program that assigns NAICS codes. This program calls employers in the state to verify the data. The CDLE also utilizes the below sources to create their datasets/databases. Reference the [PowerBI doc](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Tech/PowerBI_GoCodeColorado.pdf)on GitHub to see an example of working with LMI data.
 
-![cdle_powerBI](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/cdle_powerBI.jpg))
+![cdle_powerBI](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/cdle_powerBI.jpg)
 
 The [QCEW](https://www.bls.gov/cew/)program publishes a quarterly count of employment and wages reported by employers covering more than 95 percent of U.S. jobs, available at the county, MSA, state and national levels by industry.
 
