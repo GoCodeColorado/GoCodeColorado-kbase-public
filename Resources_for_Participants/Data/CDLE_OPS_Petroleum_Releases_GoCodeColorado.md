@@ -1,5 +1,5 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/gcc_logo_2019.png)
-![cdl_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/cdl_logo.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/gcc_logo_2019.png)
+![cdl_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/tree/master/Resources_for_Participants/Data/images/cdl_logo.jpg)
 
 # CDLE Oil and Public Safety Data
 
