@@ -30,7 +30,7 @@ The Colorado Department of Labor and Employment publishes the number of individu
 
 ## Publicly Available Datasets with Business Location byType
 
-Collectively there are rosters of businesses published by regulators of specific industries and entity types. This data can be used in combination to create a snapshot of selected industries across Colorado, many of which are maintained on a regular basis to accommodate changes overtime.FordatasetslikeRestaurantInspectionsthatareonlyavailableatalocallevelandfor selected locations, competitors are encouraged to develop with the data as made available with the plan to utilize data from other locations in future iterations of theproduct.
+Collectively there are rosters of businesses published by regulators of specific industries and entity types. This data can be used in combination to create a snapshot of selected industries across Colorado, many of which are maintained on a regular basis to accommodate changes overtime.For datasets like Restaurant Inspections that are only available at a county level and for selected locations, competitors are encouraged to develop with the data as made available with the plan to utilize data from other locations in future iterations of the product.
 
 ## Childcare Facilities and Healthcare Facilities
 
