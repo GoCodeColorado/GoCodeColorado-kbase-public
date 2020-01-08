@@ -1,6 +1,6 @@
-Go Code Colorado 2020 Business Analytics Track Scoring Criteria
-
-Overall Score
+# Go Code Colorado 2020 Business Analytics Track Scoring Criteria
+![GCLogo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Hrz.png)
+## Overall Score
 
 | **Total Points Available** | **Analytics Category** | **Analytics Category Description** |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ Overall Score
 
 The **Data** and **Quality** components are scored according to the sub-categories explained below.
 
-Data Score Breakdown
+## Data Score Breakdown
 
 | **Sub Category** | **Description** | **Points Awarded** |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Data Score Breakdown
 | The analysis is purely descriptive or diagnostic. | 4 |
 | There is no novelty to the analysis, the data is presented in its raw form. | 0 |
 
-Quality Score Breakdown
+## Quality Score Breakdown
 
 | **Sub Category** | **Description** | **Points Awarded** |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Quality Score Breakdown
 | The analysis is documented with Data Architecture Diagram, but could be more thorough/accessible. | 2 |
 | The analysis is not documented. | 0 |
 
-Relevance Score
+## Relevance Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |
@@ -58,9 +58,7 @@ Relevance Score
 | An insightful analysis that provides businesses valuable information to improve themselves, their community, or their environment. | **10** |
 | The analysis is not new and does not allow businesses to improve themselves, their community, or their environment. | **0** |
 
-Data Story Score
-
-
+## Data Story Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |
@@ -68,7 +66,7 @@ Data Story Score
 | The analysis identifies an area of improvement for a business and provides a solution. | **5** |
 | The analysis does not identify an area of improvement for a business and does not provide a solution. | **0** |
 
-Presentation Score
+## Presentation Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |

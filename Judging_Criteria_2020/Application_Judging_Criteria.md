@@ -1,6 +1,6 @@
-Go Code Colorado 2020 Business Application Track Scoring Criteria
-
-Overall Score
+# Go Code Colorado 2020 Business Application Track Scoring Criteria
+![GCLogo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Hrz.png)
+## Overall Score
 
 | **Total Points Available** | **Application Category** | **Application Category Description** |
 | --- | --- | --- |
@@ -13,7 +13,7 @@ Overall Score
 
 The **Data** and **Quality** components are scored according to the sub-categories explained below.
 
-Data Score Breakdown
+## Data Score Breakdown
 
 | **Sub Category** | **Description** | **Points Awarded** |
 | --- | --- | --- |
@@ -32,7 +32,7 @@ Data Score Breakdown
 | The usage of data is visible but is unclear or poorly documented | 4 |
 | There is no clear use of data either via code or documentation | 0 |
 
-Quality Score
+## Quality Score
 
 | **Sub Category** | **Description** | **Points Awarded** |
 | --- | --- | --- |
@@ -55,19 +55,7 @@ Quality Score
 | Documentation and code are poorly organized and difficult to read without consistency in formatting and logical code grouping. Data setup logic is unclear, and no Data Architecture Diagram. | 1 |
 | Documentation and code are readable only by someone extremely knowledgeable with its layout and purpose. No data use. | 0 |
 
-
-
-
-
-
-
-
-
-
-
-
-
-Innovation Score
+## Innovation Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |
@@ -75,7 +63,7 @@ Innovation Score
 | A better way to provide businesses with resources has been created that helps businesses improve themselves, their community, or their environment. | **10** |
 | The product created is not new and does not improve businesses. | **0** |
 
-Implementation Score
+## Implementation Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |
@@ -83,7 +71,7 @@ Implementation Score
 | The product is moderately effective in facilitating a business in gathering insights from data. | **5** |
 | The product does not effectively facilitate businesses in gathering insights from data | **0** |
 
-Presentation Score
+## Presentation Score
 
 | **Description** | **Points Awarded** |
 | --- | --- |
