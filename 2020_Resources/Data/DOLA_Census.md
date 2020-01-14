@@ -1,4 +1,4 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2019.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/gcc_logo_2019.png)
 
 # Census Data for GoCode Colorado
 
@@ -37,17 +37,17 @@ The short answer is that it can be very difficult to get data from the ACS/Censu
 ## Geography
 
 All Census data for the Decennial Census is available at all levels of Census Geography. The chart is perhaps the best method to envision the varying scales of Census geography, with Census Blocks being the smallest unit of data aggregation. Census Blocks are not released with every ACS due to their scale, and are therefore not included with each year&#39;s update of cleaned data published to CIM.
-![dola_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_1.jpg)
+![dola_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_1.jpg)
 
 
 ## Creation of Census Data for CIM
 
 A downloadable geodatabase of the ACS data is available directly from the census and contains 30 tables for all 50 states and territories totaling approximately 1GB in storage. In order to view this geodatabase, a proficiency in geospatial software (most commonly ESRI or QGIS) or in Ogr2ogr/GDAL (open source command language) is required.
-![dola_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_2.jpg)
-![dola_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_3.jpg)
+![dola_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_2.jpg)
+![dola_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_3.jpg)
 
 There are a number of different ways to &#39;slice and dice&#39; the Census Database. For those who are more experienced with the architecture and how to utilize a query, consider using the Census API that DOLA curates.
-![dola_4](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_4.jpg)
+![dola_4](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_4.jpg)
 
 The first step in the more manual process is to subset the 1GB of data to Colorado. The second step is to get all of the desirable fields (163 selected fields in this case) into a single shapefile with the geometry outlines of the zip boundaries and human readable field headers. The query to accomplish this is over 160 lines long. The screenshot shows the attribute table of the raw extract without the field names updated to human readable counterparts.
 
@@ -84,14 +84,14 @@ The Department of Local Affairs (DOLA) Demography Office has a map and data visu
 - [Census Counties for Colorado](https://data.colorado.gov/Demographics/Census-Counties-in-Colorado-2016/sn6p-34bq)[2016](https://data.colorado.gov/Demographics/Census-Counties-in-Colorado-2016/sn6p-34bq)
 
 If you like Hans Rosling (RIP) and his amazing case for understanding the world around us in his TED Talk [The Best Stats You&#39;ve Ever Seen](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript?language=en&amp;amp;t-1163358), then you&#39;ll love the DOLA Demography Office&#39;s [Colorado County Population Animation](https://dola.colorado.gov/gis-php/files/projects/population/allpop2.html). This animation is based off of their [Colorado Population](https://data.colorado.gov/Demographics/Colorado-Population-Projections/q5vp-adf3)[Projections](https://data.colorado.gov/Demographics/Colorado-Population-Projections/q5vp-adf3)dataset,alsoavailableontheColoradoInformationMarketplaceforyoutodownload or connect via the SODA API. Just as Hans concludes, &quot;These countries are lifting more than the economy… as I would like you to be able to do with all the publicly fundeddata.&quot;
-![dola_5](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_5.jpg)
-![dola_6](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_6.jpg)
-![dola_7](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_7.jpg)
+![dola_5](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_5.jpg)
+![dola_6](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_6.jpg)
+![dola_7](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_7.jpg)
 
 ## The Case of the Missing Zip Codes and Other Statistician Stories
 
 This subset of the ACS data for Colorado users from the Colorado Information Marketplace is intended for the &quot;80%&quot; of data consumers. The other &quot;20%&quot; are some highly skilled statisticians that understand the value of having both the measured and derived value. For each Census dataset that is published, the Go Code Colorado and DOLA team have selected 163 fields that we consider to be most useful and valuable. There are other fields available if you are curious, you can take a look at [this spreadsheet from the Census](http://www2.census.gov/programs-surveys/acs/summary_file/2015/documentation/user_tools/ACS2015_Table_Shells.xlsx)- consider yourself warned that there are over 35,000 entries and you are opening one of the great rabbit holes of our time. On a somewhat related note, statisticians would never survey using zip codes, but a majority of the 80% of data users would prefer zip codes. Zip codes are most commonly understood by all Americans which is why the phrase &quot;we surveyed 100 Americans and asked them what Block Group they live in&quot; is rarely if ever heard. Statisticians and geographers can continue disagreeing on zip codes, but until society conforms their mental map of where they live to their Block Code instead of their zip code, people will still have a compelling case to continue the madness of working with zip code data.
-![dola_8](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_8.jpg)
+![dola_8](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_8.jpg)
 
 There is certainly a reasonable rationale for why not to use zip codes in analysis and the short version is shown above in this screenshot with red circles from CIM of the ACS zip codes. Note that zip codes cross over state boundaries (into WY as in the zip code north-west of Larimer County and also in the south-west corner of the state) some are missing completely. Some areas do not have a zip codes as in the case of Rocky Mountain Arsenal Wildlife Refuge in Denver and Fort Carson near Colorado Springs.
 
@@ -103,7 +103,7 @@ In a crazy twist of one of the data world&#39;s most poignant ironies, zip codes
 
 
 The best way to grasp the concept of the zip code being a line and not a polygon, is to look at them.
-![dola_9](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_9.jpg)
+![dola_9](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_9.jpg)
 _Source:_ [_www.georeference.org_](http://www.georeference.org/)
 
 Inthisexample,notethattheblueareaisnotcontiguous,thattherearemanyregionsofoverlap between the blue and the purple areas and between the purple and green areas, and the red lines intersect almost all of the drawn polygons. The reason for this is that zip codes are linear features associated with specific roads or with specific addresses such as apartment buildings that are best regarded as a point (the USPS manages address tables). The purpose of zip codes is to deliver mail. Therefore the boundaries of zip codes do not always follow logical straight lines, sometimes dipping in and out of neighborhoods and including areas that are vastly different from each other. Why? Presumably that&#39;s how the mail routes were drawn at one time. To create polygons from roads, analysts over time have taken several approaches to creating them because the USPS does not publish thempublicly.
@@ -122,8 +122,8 @@ Thanks to the Colorado Department of Local Affairs Demography Office, you can ea
 
 Here&#39;s where the rabbit hole gets the deepest, which might seem like an outlandish statement to make 8 pages into the document, but it&#39;s the truth. Anyone who has tried to do a Congressional or Neighborhood level study with Census data will agree this is true. The most basic way to explain the issue is that data is collected at a variety of differing geofences and the fences don&#39;t all nestle into each other. Non-nestling aggregation geofences is not a problem borne by Census data alone, but neither is Census data an exception to the rule. People most easily conceptualize their world in terms of neighborhoods and zip codes, as explained above, but almost all public data collected about people is gathered to political or jurisdictional boundaries like cities, counties, and other special districts. Congressional districts are a classic example of a boundary that almost no other data geofence nestles into. Look at this side by side comparison of Counties and Congressional Districts for Illinois, or the following screenshot zoom in on counties (black lines) overlapping zip codes. Below are a number of different visual examples.
 
-![dola_10](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_10.jpg)
-![dola_11](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesdola_11.jpg)
+![dola_10](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_10.jpg)
+![dola_11](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/dola_11.jpg)
 
 The list of mismatched geofences goes on and on. So why does it matter that the lines don&#39;t match. For example, say you have some very interesting data for counties, but you want to see what the distribution of the data is across the congressional districts. The quick answer is that you divide the counts for each county that crosses a congressional district line into the two congressional districts. The next logical question is whether the distribution should be weighted by any factors. Geographers default to the use of population as a weight, especially as population statistics are often the data being distributed across differing jurisdictional boundaries. This is reliable for distributions across large areas, and therefore describes the basic math behind [MABLE/GEOCORR](http://mcdc2.missouri.edu/websas/geocorr2k.html). MABLE/GEOCORR is the Missouri Census Data Center&#39;senginetocorrelateZCTAswithPUMAs,CongressionalDistricts,Countiesandafewin between. You choose the state, the two geographies you want to relate, the weighting method for allocating one to the other, an output format that includes CSV or HTML, and the option to geofence (select a geographic subset). While the interface looks a little questionable, the conversions are legitimate.The math has been verified for a couple different projects (the population distribution across boundaries was observed and the estimation using aerial imagery and other ancillary datasets was corroborated). Use your best judgement and as many tools and resources as you can find to validate your study to have confidence in the use of your zip code anonymizeddata!
 

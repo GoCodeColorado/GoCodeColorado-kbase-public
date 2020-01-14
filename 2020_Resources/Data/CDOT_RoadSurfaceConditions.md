@@ -1,5 +1,5 @@
-![gcc_logo_2018](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2018.png)
-![cdot_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagescdot_logo.jpg)
+![gcc_logo_2018](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/gcc_logo_2018.png)
+![cdot_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/cdot_logo.jpg)
 
 
 # CDOT Road Surface Definitions

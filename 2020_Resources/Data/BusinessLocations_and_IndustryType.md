@@ -1,4 +1,4 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2019.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/gcc_logo_2019.png)
 
 # Business Location and Type
 
@@ -45,13 +45,13 @@ The Tri-County Health Department provides public health services to Adams, Arapa
 ## Assessor Data for Counties in Colorado
 
 The[Statewide](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)[Aggregate](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)[Parcels](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)[in](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)[Colorado](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)[2017](https://data.colorado.gov/Local-Aggregation/Statewide-Aggregate-Parcels-in-Colorado-2017/izys-vycy)datasetwascreatedtofacilitateastatewide view of parcels. The fields in this dataset have been intentionally selected to facilitate mapping attribute data across municipal boundaries and published by the Governor&#39;s Office of Information Technology. In many cases, but not always, the assessor data is housed and managed with the municipalities&#39; GIS shop. For the management of the parcel data, the official record is not the GIS file, instead it is the actual Legal Land Survey, and most parcel data should be viewed as an approximate location unless the data specifies otherwise. Parcel data includes the address of the location and the name and address of the owner. Quite often this does not provide context for what businessis operating at the location, but sometimes it does.
-![bus_ent_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesbus_ent_1.jpg)
+![bus_ent_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/bus_ent_1.jpg)
 
 This data includes some categorical information that can be extracted from the &#39;zoningCode&#39; field, designating the location as residential, commercial, industrial, agricultural, and a variety of other codes, which can be used to validate business types in given locations.
-![bus_ent_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesbus_ent_2.jpg)
+![bus_ent_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/bus_ent_2.jpg)
 
 The assessor data provided about each site includes information like the value of the land as compared to the appraised value and the most recent sale date and sale price.
-![bus_ent_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesbus_ent_3.jpg)
+![bus_ent_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/bus_ent_3.jpg)
 
 
 **Colorado Anchor Institutions.** Locations of schools, libraries, medical and healthcare providers, public safety entities, community colleges and other institutions of higher education, and other community support organizations and entities can be found in the [Community Anchor](https://data.colorado.gov/Telecommunications/Community-Anchor-Institutions-2017/ysa7-n95j)[Institutions dataset](https://data.colorado.gov/Telecommunications/Community-Anchor-Institutions-2017/ysa7-n95j). These locations are gathered in the National Telecommunications Information Administration (NTIA) and State Broadband Data Development Program (SBDD) in an effort to identify existing and potential broadband availability to the public.

@@ -1,5 +1,5 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2019.png)
-![fc_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesfc_logo.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/gcc_logo_2019.png)
+![fc_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/fc_logo.png)
 
 **Last updated:** 3/12/2019
 
@@ -33,13 +33,13 @@ Metadata can be found under the &quot;About&quot; tab when viewing any dataset.
 ## Solar Installations Data
 
 The [Solar Installations Data](https://opendata.fcgov.com/Environmental-Health/Solar-Installations/3ku5-x4k9)includes all solar (photovoltaic) systems interconnected with Fort Collins Utilities distribution system and includes three fields: the date of service, system address, and solar system capacity (kilowatts-DC).
-![fc_solar](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesfc_solar.jpg)
+![fc_solar](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/fc_solar.jpg)
 
 
 ## Bikeway System Map
 
 Fort Collins is proud of its bike infrastructure and culture, and has provided a [map of their](https://gisweb.fcgov.com/HTML5Viewer/Index.html?Viewer=FCMaps&amp;amp;layerTheme=Bikeway%20System)[bikeway system.](https://gisweb.fcgov.com/HTML5Viewer/Index.html?Viewer=FCMaps&amp;amp;layerTheme=Bikeway%20System)Users may find this information applicable to the smart cities challenge category.
-![fc_bikew](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesfc_bikew.png)
+![fc_bikew](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/fc_bikew.png)
 
 The data can be exported in BMP, JPG, PNG, TIFF, GeoTIFF, and pdf.
 
@@ -55,7 +55,7 @@ Users may find this data useful for many purposes. For example, the Neighborhood
 ## City Buildings Energy Star Score
 
 This map contains data on [city-owned building Energy Star scores](https://opendata.fcgov.com/High-Performing-Government/City-Buildings-Energy-Star-Score/2x5v-i6zb)from 2016. The data can be exported to KML, KMZ, shapefile, and GeoJSON. Users may find this data relevant to the smart cities challenge category.
-![fc_dash](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesfc_dash.png)
+![fc_dash](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/images/fc_dash.png)
 
 
 ## Much More
