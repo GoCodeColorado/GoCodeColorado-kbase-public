@@ -1,6 +1,6 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/gcc_logo_2019.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2019.png)
 
-![boulder_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/boulder_logo.jpg)
+![boulder_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesboulder_logo.jpg)
 
 **Last Updated:** 3/1/2019
 
@@ -32,7 +32,7 @@ Basic metadata can be found beneath the download links for each dataset, under &
 
 
 The Boulder Valley Comprehensive Plan (BVCP) land use map defines the desired [future land](https://bouldercolorado.gov/open-data/boulder-bvcp-future-land-use/)[use pattern](https://bouldercolorado.gov/open-data/boulder-bvcp-future-land-use/)for the Boulder Valley regarding location, type, and intensity of development.
-![boulder_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/boulder_1.jpg)
+![boulder_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesboulder_1.jpg)
 
 
 The data is available in the following formats: shapefile, GeoJSON, csv, and kmz. The City of Boulder department that provides the data is &quot;Planning, Housing, and Sustainability&quot;, and the data is listed under the &quot;Environment and Public Lands&quot; and &quot;Zoning and Private Property&quot; categories. The shapefile contains data on the desired land use category as well as the parcel&#39;s area and length.
@@ -49,7 +49,7 @@ Boulder offers datasets containing classified [LiDAR point clouds](https://bould
 
 
 of .6 ft. It is recommended that LiDAR data be examined using ESRI&#39;s ArcGIS 10.1 or later versions. The data can also be viewed in AutoCAD Map 3D or AutoCAD Civil 3D. There are multiple LiDAR datasets that are available on [geodata.colorado.gov](https://geodata.co.gov/).
-![boulder_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/boulder_2.jpg)
+![boulder_2](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesboulder_2.jpg)
 
 
 
@@ -70,7 +70,7 @@ Here&#39;s a list of other great datasets:
 ## City of Boulder Impervious Areas
 
 This shapefile contains [City of Boulder impervious areas](https://bouldercolorado.gov/open-data/impervious-areas/)include buildings, structures, concrete, or paved surfaces. Questions to be explored using this data may include: How much of the city is impervious? How does this compare to other cities? What does this mean in terms of our flood risks based on the 2013 flood data which is also available?
-![boulder_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/boulder_3.jpg)
+![boulder_3](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesboulder_3.jpg)
 
 ## Much More
 

@@ -1,4 +1,4 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/gcc_logo_2019.png)
+![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagesgcc_logo_2019.png)
 # Liquor License Data
 
 **Last updated:** March 20, 2018
@@ -56,7 +56,7 @@ NOTE: **Liquor Licenses in Colorado** , **Recently Expired and Surrendered Liquo
 ## Businesses With Locations Inside of Colorado
 
 **Example 1:** Red Lobster maintains a liquor license for each of its locations in Colorado and is listed by restaurant number in addition to a &quot;Master File (Business)&quot; license held by the headquarters in Orlando, FL. Each restaurant listed by number maintains a &quot;Hotel &amp; Restaurant (city)&quot; or &quot;Hotel &amp; Restaurant (county)&quot; license. In this example, the individual restaurants can be geolocated based on address, but the record containing the Master File cannot.
-![cdo_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Resources_for_Participants/Data/images/cdor_1.jpg)
+![cdo_1](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/2020_Resources/Data/imagescdor_1.jpg)
 
 **Example 2:** Alaskan Brewing LLC. This licensee is headquartered in Juneau, AK, but does not maintain any manufacturing or sales room locations in Colorado. The license type held by the licensee is a &quot;Nonresident Manufacturer (malt liquor).&quot;
 
