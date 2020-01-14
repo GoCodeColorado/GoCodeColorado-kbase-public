@@ -1,3 +1,0 @@
-The documents in this folder capture the raw notes from the Business Decision Maker workshops put on by Go Code Colorado 2014-2016.
-
-Throughout the years of Go Code Colorado, we have done a lot of work to engage the Business Community in an effort to articulate the problems that need to be solved. In 2014 and 2015 there were in-person half-day workshops that resulted in lots of good storyboarding and brainstorming. In 2016 the CDOS collaborated with the Colorado OEDIT to produce a combined business survey of over 300 Colorado Business Decision Makers. However, an interesting thing happened when we stopped putting constraints on the challenge -- a dramatic increase in the variety of data types used and app types built was the result. 
