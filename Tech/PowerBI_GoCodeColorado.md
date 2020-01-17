@@ -50,7 +50,7 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 12. In the upper right corner of the Power Query Editor, select Combine > Dropdown next to Merge Queries > Select Merge Queries as new
 
-![Merge Queries](./images/merge_queries)
+![Merge Queries](./images/merge_queries.PNG)
 
 13. Select all three headers by CTRL+clicking the headers for the SOQL query, on the bottom dropdown, select the OData Feed and, in order, click the first header to match the SOQL query, then CTRL+click the remaining headers
 
