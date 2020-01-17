@@ -8,7 +8,7 @@ Last Updated: April 20, 2018
 
 For this walkthrough we are going to create a table and graph visualization to display the “highest average annual wage by occupation in Colorado by Metropolitan Statistical Areas and selected regions” using the [Employment Wages in Colorado](https://data.colorado.gov/Labor-Employment/Employment-Wages-in-Colorado/busm-qa5b) dataset.
 
-![Employment Wages in Colorado]()
+![Employment](./images/Employment.PNG)
 
 ## Walkthrough on Creating Query for Highest Average Annual Wage by Occupation
 
@@ -20,7 +20,7 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 3. Get Data > OData Feed
 
-![Open OData Feed](/images/Power BI Tutorial/OData_feed.PNG)
+![Open OData Feed](/images/OData_feed.PNG)
 
 4. Enter OData v2 URL in the Basic URL field
 
