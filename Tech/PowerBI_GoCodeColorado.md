@@ -34,11 +34,11 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 7. Select Edit Queries from the Ribbon to open the Power Query Editor
 
-![Power Query Editor](/images/Power BI Tutorial/edit_queries_feed.PNG)
+![Power Query Editor](./images/edit_queries_feed.PNG)
 
 8. In the Power Query Editor window, select New Source, From Web, and enter the SOQL query (above) in the Basic URL field
 
-![New Source Information](/images/Power BI Tutorial/Basic URL Feed.PNG)
+![New Source Information](./images/Basic URL Feed.PNG)
 
 9. In the new query, right click list and select "To Table" and click OK
 
@@ -46,25 +46,25 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 11. Rename the columns to match the original data and change the column types to the appropriate type by right clicking the header and selecting “Change Type”
 
-![Change Type](/images/Power BI Tutorial/rename_columns.PNG)
+![Change Type](./images/rename_columns.PNG)
 
 12. In the upper right corner of the Power Query Editor, select Combine > Dropdown next to Merge Queries > Select Merge Queries as new
 
-![Merge Queries](/images/Power BI Tutorial/merge_queries)
+![Merge Queries](./images/merge_queries)
 
 13. Select all three headers by CTRL+clicking the headers for the SOQL query, on the bottom dropdown, select the OData Feed and, in order, click the first header to match the SOQL query, then CTRL+click the remaining headers
 
 14. Check the box in the Privacy levels pop-up to continue
 
-![Privacy levels](/images/Power BI Tutorial/privacy_levels.PNG)
+![Privacy levels](./images/privacy_levels.PNG)
 
 15. Select Inner Join to join only matching rows and select OK to complete the Merge
 
-![Inner Join](/images/Power BI Tutorial/inner_join.PNG)
+![Inner Join](./images/inner_join.PNG)
 
 16. Click the expand icon for the new merged query and select the desired field (in this case, codetitle)
 
-![Expand Icon](/images/Power BI Tutorial/code_title.PNG)
+![Expand Icon](./images/code_title.PNG)
 
 17. You may then click Close & Apply in the top left and begin creating visualizations based on the final_answer
 
@@ -72,4 +72,4 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 19. For the graph, axis = areaname or code title (depending on how the data should be displayed), legend = periodyear, value = Max of Mean
 
-![Graph](/images/Power BI Tutorial/final_graph.PNG)
+![Final Graph](./images/final_graph.PNG)
