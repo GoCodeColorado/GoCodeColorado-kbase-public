@@ -16,11 +16,11 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 2. Export OData Feed
 
-![Odata Feed](/images/Power BI Tutorial/Employment.PNG)
+![Odata Feed](./images/Export_OData.PNG)
 
 3. Get Data > OData Feed
 
-![Open OData Feed](/images/OData_feed.PNG)
+![Open OData Feed](./images/OData_feed.PNG)
 
 4. Enter OData v2 URL in the Basic URL field
 
@@ -38,7 +38,7 @@ For this walkthrough we are going to create a table and graph visualization to d
 
 8. In the Power Query Editor window, select New Source, From Web, and enter the SOQL query (above) in the Basic URL field
 
-![New Source Information](./images/Basic URL Feed.PNG)
+![New Source Information](./images/basic_url_feed.PNG)
 
 9. In the new query, right click list and select "To Table" and click OK
 
