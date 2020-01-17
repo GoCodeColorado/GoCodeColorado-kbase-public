@@ -97,6 +97,7 @@ Depending on the use case for the tool being built, there are a great many diffe
 Staging areas for incoming data allow for productionizing on incoming Public Data. Next add in Google Places API and BBB API as validators as they both will give the location for the point of sale for many businesses, along with the category of the industry, but cannot be retained locally in bulk. Then, depending on the &#39;flavor&#39; of the need of the tool being built, incorporate any one or more of the additional data sources to create rulesets that improve the confidence in the &#39;business location&#39; and &#39;business type&#39; match, as well as the validity of associated variables like &#39;hours of operation&#39;, etc.
 
 
+
 ## Questions Answered by this Document
 
 - Any datasets that relate business name/entity ID to the type of business?
