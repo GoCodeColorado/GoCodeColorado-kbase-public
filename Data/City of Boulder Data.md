@@ -14,7 +14,7 @@ City of Boulder has 87 datasets, everything from prairie dog colonies and open s
 
 ## City of Boulder - Overview of Relevant Datasets
 
-There are many interesting datasets available through the Boulder Open Data Portal, including [Addresses](https://bouldercolorado.gov/open-data/boulder-addresses/), [Building Performance (energy usage)](https://bouldercolorado.gov/open-data/boulder-building-performance-program/) [WiFi coverage](https://bouldercolorado.gov/open-data/boulder-connect-boulder-wifi-coverage/) and even [Lidar Data.](https://bouldercolorado.gov/open-data/city-of-boulder-lidar/)
+There are many interesting datasets available through the Boulder Open Data Portal, including [Addresses](https://bouldercolorado.gov/open-data/boulder-addresses/), [Building Performance (energy usage)](https://bouldercolorado.gov/open-data/boulder-building-performance-program/), [WiFi coverage](https://bouldercolorado.gov/open-data/boulder-connect-boulder-wifi-coverage/) and even [Lidar Data.](https://bouldercolorado.gov/open-data/city-of-boulder-lidar/)
 
 ## How to Get Started
 
@@ -32,7 +32,7 @@ Basic metadata can be found beneath the download links for each dataset, under &
 
 
 The Boulder Valley Comprehensive Plan (BVCP) land use map defines the desired [future land use pattern](https://bouldercolorado.gov/open-data/boulder-bvcp-future-land-use/) for the Boulder Valley regarding location, type, and intensity of development.
-![boulder_1](./images\boulder_1.jpg)
+![boulder_1](./images/boulder_1.jpg)
 
 
 The data is available in the following formats: shapefile, GeoJSON, csv, and kmz. The City of Boulder department that provides the data is &quot;Planning, Housing, and Sustainability&quot;, and the data is listed under the &quot;Environment and Public Lands&quot; and &quot;Zoning and Private Property&quot; categories. The shapefile contains data on the desired land use category as well as the parcel&#39;s area and length.
