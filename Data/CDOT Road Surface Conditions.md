@@ -74,7 +74,7 @@ tables). Snow drifts and localized ice patches are treated as soon as possible a
 5. Plowing and abrasives or chemicals applications are performed on very limited basis, impairing mobility on all roads (refer to
 accompanying tables). Snow drifts and localized ice patches may not be treated for some time. No preventive avalanche control is performed. Chain station operations are scaled back or suspended.
 
-##Major Tunnels
+## Major Tunnels
 
 1. Condition of the tunnel structure is excellent. Operation of electrical, electronic, and mechanical systems is highly reliable.
 Inspections and repairs are performed on schedule. Response to incidents is immediate and effective, and frequent, attentive care of the facilities (e.g., washing, clearing of ice and debris) maintains safe and efficient passage.
