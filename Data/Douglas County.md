@@ -31,7 +31,7 @@ Metadata can be found on DougCo&#39;s website by clicking the &quot;About&quot; 
 
 ## Douglas County Roof Permits
 
-This dataset contains building, roofing, electrical, mechanical, demolition, and driveway issued [permits for Douglas County](https://data.douglas.co.us/Economic/Roof-permit/3f4j-vyeh). City-issued permits are not in this dataset. The dataset tracks permits issued dating back to January of 1991, which makes this dataset somewhat older than many other available datasets. Users may find this data useful for the Smart Cities challenge category, as this dataset provides historical context to buildings in a largely suburban county.
+This dataset contains building, roofing, electrical, mechanical, demolition, and driveway issued [permits for Douglas County](https://data.douglas.co.us/Economic/Roof-permit/3f4j-vyeh). City-issued permits are not in this dataset. The dataset tracks permits issued dating back to January of 1991, which makes this dataset somewhat older than many other available datasets.
 ![dougco_data](./images/dougco_data.jpg)
 
 The codes in these 5 fields are shown on the pdf document to be Block Code &quot;B.&quot; The codes for Block code are shown on page 7 of the pdf under &quot;B.HARMFULEVENTSEQUENCE.&quot; There are codes 01 through 40, and the following codes relate specifically to ped or bike:
