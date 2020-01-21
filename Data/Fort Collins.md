@@ -39,7 +39,7 @@ The [Solar Installations Data](https://opendata.fcgov.com/Environmental-Health/S
 ## Bikeway System Map
 
 Fort Collins is proud of its bike infrastructure and culture, and has provided a [map of their bikeway system](https://gisweb.fcgov.com/HTML5Viewer/Index.html?Viewer=FCMaps&amp;amp;layerTheme=Bikeway%20System). Users may find this information applicable to the smart cities challenge category.
-![fc_bikew](./images/fc_bikew.png)
+![fc_bikew](./images/fc_bikew.jpg)
 
 The data can be exported in BMP, JPG, PNG, TIFF, GeoTIFF, and pdf.
 
@@ -53,7 +53,7 @@ Users may find this data useful for many purposes. For example, the Neighborhood
 ## City Buildings Energy Star Score
 
 This map contains data on [city-owned building Energy Star scores](https://opendata.fcgov.com/High-Performing-Government/City-Buildings-Energy-Star-Score/2x5v-i6zb) from 2016. The data can be exported to KML, KMZ, shapefile, and GeoJSON. Users may find this data relevant to the smart cities challenge category.
-![fc_dash](./images/fc_dash.png)
+![fc_dash](./images/fc_dash.jpg)
 
 
 ## Much More
