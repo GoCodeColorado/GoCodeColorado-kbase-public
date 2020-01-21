@@ -14,7 +14,7 @@ The mission at Go Code Colorado is to make public data more accessible and usefu
 
 ## Colorado Resources
 
-- Colorado Information Marketplace[https://data.colorado.gov/](https://data.colorado.gov/) is the state&#39;s central repository for machine-readable resources. Visit [Go Code Colorado](http://gocode.colorado.gov/data/) for tips and tricks on how to maximize your experience and featured datasets on[Current Datasets](http://gocode.colorado.gov/data/current-data-sets/). Also we have some good info on the[previous years&#39; apps](http://gocode.colorado.gov/about/previous-years/) built with public data, and [Additional Data Resources](http://gocode.colorado.gov/data/additional-resources/) has links to data portals.
+- Colorado Information Marketplace[https://data.colorado.gov/](https://data.colorado.gov/) is the state&#39;s central repository for machine-readable resources. Visit [Go Code Colorado](http://gocode.colorado.gov/data/) for tips and tricks on how to maximize your experience and featured datasets on [Current Datasets](http://gocode.colorado.gov/data/current-data-sets/). Also we have some good info on the[previous years&#39; apps](http://gocode.colorado.gov/about/previous-years/) built with public data, and [Additional Data Resources](http://gocode.colorado.gov/data/additional-resources/) has links to data portals.
 
 ## Colorado Resources with Environmental Health Relevance
 
