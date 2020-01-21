@@ -155,7 +155,7 @@ SODA is supported by a developer site http://beta.dev.socrata.com/.
 
 The [Socrata Open Data API](https://dev.socrata.com/consumers/getting-started.html) allows programmatic access to open data resources from the CIM. Click the link below and for an example on how queries are structured in SODA.
 
-[http://soda.demo.socrata.com/resource/earthquakes.json?$where=magnitude > 5.5](http://soda.demo.socrata.com/resource/earthquakes.json?$where=magnitude > 5.5)
+`http://soda.demo.socrata.com/resource/earthquakes.json?$where=magnitude > 5.5`
 
 The SODA API documentation has been broken down into three user categories: App Developers; Data Publishers; Data Consumers.
 
