@@ -2,8 +2,6 @@
 
 # Understanding Business Entities in Colorado
 
-**Last Updated:** 01/20/2020
-
 [Business Entities in Colorado](https://data.colorado.gov/Business/Business-Entities-in-Colorado/4ykn-tg5h) is a roster of corporations, LLCs, etc. registered with the Colorado Secretary of State (aka Department of State or CDOS). The business registration goes back to the 1800&#39;s, with over 1 million records available. It contains business name, principal address, mailing address, owner name, owner address, entity status, type and creation date. As of March 2019 there are over 1.84 million unique business ids registered with the State of Colorado, counting back to the 1800s, and there is a (very rough) average of 2,000 new businesses added each week.
 
 There are five basic factors in this dataset, in addition to the address columns. Entity and Entity Id are the business number from CDOS (also the unique identifier) and registered business name. Principal Address, however, is not always guaranteed to be the physical location of the business entity&#39;s main operation. Some businesses can be registered in CO but have an address outside of the state or may list a PO box and there are businesses with locations that don&#39;t have a public access entry point. Mailing Address is the mailing address of the business owner, and the Agent address may be the address of the agent or in some cases has the same address as the business owner. The year in Entity Form Date is corroborated by the first four digits of the Entity Id.
