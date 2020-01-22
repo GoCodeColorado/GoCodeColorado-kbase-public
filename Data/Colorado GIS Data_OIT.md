@@ -2,8 +2,6 @@
 
 # GIS Data for GoCode Colorado
 
-**Last Updated:** 01/21/2020
-
 ## Assessor Data
 
 
