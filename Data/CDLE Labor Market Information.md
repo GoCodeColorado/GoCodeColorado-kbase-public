@@ -2,8 +2,6 @@
 ![cdle_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Data/images/cdle_logo.jpg)
 # CDLE Resources - Labor Market Information Data
 
-**Last Updated:** 01/17/2020
-
 The Colorado Department of Labor &amp; Employment (CDLE) connects job seekers with great jobs; provides an up-to-date and accurate picture of the economy to help decision making; assists workers who have been injured on the job; ensures fair labor practices; helps those who have lost their jobs by providing temporary wage replacement through unemployment benefits; and protects the workplace - and Colorado communities - with a variety of consumer protection and safety programs. Find us at [https://www.colorado.gov/cdle](https://www.colorado.gov/cdle).
 
 
