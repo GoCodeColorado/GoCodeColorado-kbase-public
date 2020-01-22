@@ -40,7 +40,8 @@ There is not a data size limit for loading data into a desktop environment, howe
 To work with PowerBI from the CIM, use the “OData” feed. OData is a REST-based protocol for querying and updating data and is built on standardized technologies such as HTTP, Atom/XML, and JSON. It is different from other REST-based web services in that it provides a uniform way to describe both the data and the data model.
 Access the feed url in 2 ways.
 
-1.  Go to the metadata landing page, click on the menu (next to the share button), click on “Access Data via OData”, and copy the link
+1.  Go to the metadata landing page, click on the menu (next to the share button), click on “Access Data via OData”, and copy the link.
+
 ![cim_viz_7](./images/cim_viz_7.PNG)
 
 2. Go to the old view (hit the “View Data” tab), to the blue export tab, then go to the OData endpoint and copy the link
@@ -70,5 +71,7 @@ Another option is to set up “drill down” visualizations, typically this work
 8. Multiple datasets can be joined or “mashed”, as long as they have a field with a common column that can be joined on.This tool allows people to explore the data and see patterns that would not be readily apparent by typical filters and browsing.
 
 9. To publish the visualization, embed it as an iframe.
+
+### Where to get support
 
 For questions about PowerBI or other data tools, please reach out on the #tech-support channel in the Go Code Colorado slack team. Also remember the goal isn’t to display information, CIM already does that. The goal is to help business and to answer questions for business decision makers, not display raw data in pretty colors. These tools work well to explore and visualize data, but the analysis involved in the extraction of information from the data still requires the work of dedicated data scientists, mappers and entrepreneurs!
