@@ -1,6 +1,6 @@
 ![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 
-#Tip and Tricks for Using CIM
+# Tip and Tricks for Using CIM
 
 Go Code Colorado competition participants can explore Colorado public data through the Colorado Information Marketplace (CIM) public data portal and learn tips and tricks for using CIM.
 
@@ -114,6 +114,7 @@ A double (used to be number) is an IEEE floating point double. They are easy to 
 | -      | subtracts one number from another       |
 
 **Boolean**
+
 | Operations     | Description    |
 | :------------- | :------------- |
 | AND       | The logical and of two expressions.       |
@@ -161,13 +162,18 @@ Fields
 Below is an example of the fields are available on the API: CDHE - Degrees Awarded API.
 
 **Field Name**: year
+
 **Human Name**: year
+
 **Type**: [number](https://dev.socrata.com/docs/datatypes/number.html#,)
 
 Examples
 Copy and paste these to a browser as examples
 
 Retrieve all records with year equal to 2012:
+
 GET `https://data.colorado.gov/resource/cdhe-degrees-awarded.json?year=2012`
+
 Retrieve all records that are greater than 2001:
+
 GET `https://data.colorado.gov/resource/cdhe-degrees-awarded.json?$where=year > 2001`
