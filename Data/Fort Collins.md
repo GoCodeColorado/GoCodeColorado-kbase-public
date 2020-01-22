@@ -1,8 +1,6 @@
 ![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 ![fc_logo](./images/fc_logo.png)
 
-**Last updated:** 01/21/2020
-
 # City of Fort Collins Data
 
 The goal of [Fort Collins Open Data](https://www.fcgov.com/opendata/) is to maintain a web portal to host data sets that are available to the public in a format that citizens can easily search, filter, and utilize in innovative and creative ways. Making data available allows citizens to learn about the City, help make decisions, and be a part of creating solutions.
