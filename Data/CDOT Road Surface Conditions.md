@@ -4,8 +4,6 @@
 
 # CDOT Road Surface Definitions
 
-**Last Update:** 01/20/2020
-
 From [CDOT Strategic Plan FY 2012-2013](https://www.colorado.gov/pacific/sites/default/files/FY2013%20CDOT%20Strategic%20Plan.pdf)
 
 ## Roadway Surface
