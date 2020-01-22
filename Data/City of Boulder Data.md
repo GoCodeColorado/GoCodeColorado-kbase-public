@@ -2,8 +2,6 @@
 
 ![boulder_logo](./images/boulder_logo.jpg)
 
-**Last Updated:** 01/20/2020
-
 # City of Boulder Data
 
 City of Boulder has 87 datasets, everything from prairie dog colonies and open space trails to rental housing, public trees and fire response times. Public data resources are strong with the City of Boulder, so be sure to check in with them to see new data being published.
