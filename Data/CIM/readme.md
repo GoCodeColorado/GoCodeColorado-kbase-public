@@ -4,7 +4,7 @@
 
 Here you will find useful information for using CIM effectively. Here are the different resources in this folder:
 
-:| File Name | Description |
+| File Name | Description |
 | :------------- | :------------- |
 | CIM Basics.md       | Learn the basics of how to navigate and use the CIM       |
 | Quick Viz Go Code Colorado.md       | Learn tools to create powerful, effective visuals       |
