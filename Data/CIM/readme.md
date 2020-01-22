@@ -9,6 +9,3 @@ Here you will find useful information for using CIM effectively. Here are the di
 | CIM Basics.md       | Learn the basics of how to navigate and use the CIM       |
 | Quick Viz Go Code Colorado.md       | Learn tools to create powerful, effective visuals       |
 | Tips and Tricks.md       | Learn some helpful tips and tricks to efficiently use the CIM       |
-
-
-Happy Coding!
