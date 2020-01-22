@@ -33,3 +33,42 @@ One option is to download and then upload data into carto, but there is also a o
 Carto is different because it can be used as a production system, whereas the other data exploration tools on here may not be as useful for a production system.
 
 ### PowerBI
+
+PowerBI is a desktop application
+There is not a data size limit for loading data into a desktop environment, however there is a limit of 1GB to publish a visualization to the web.
+
+To work with PowerBI from the CIM, use the “OData” feed. OData is a REST-based protocol for querying and updating data and is built on standardized technologies such as HTTP, Atom/XML, and JSON. It is different from other REST-based web services in that it provides a uniform way to describe both the data and the data model.
+Access the feed url in 2 ways.
+
+1.  Go to the metadata landing page, click on the menu (next to the share button), click on “Access Data via OData”, and copy the link
+![cim_viz_7](./images/cim_viz_7.PNG)
+
+2. Go to the old view (hit the “View Data” tab), to the blue export tab, then go to the OData endpoint and copy the link
+
+![cim_viz_8](./images/cim_viz_8.PNG)
+
+3. Open up the PowerBI application, hit get data, and then select OData feed.
+
+![cim_viz_9](./images/cim_viz_9.PNG)
+
+If for some reason this doesn’t work, download an excel or csv version of the data, and then load it into PowerBI that way. The advantage of OData is that a soft link is retained to the, so if the data needs to be refreshed it can easily be done by clicking a link.
+
+4. Under visualizations there are all sorts of options. Click on one, or drag & drop to create multiple visualizations that interact with each other, all on one page!
+
+Every visualization has different ways to combine the data, feel free to explore different ways and combinations. Keep dragging and dropping to get a feel for what the different values mean!
+
+5. Next is filtering to look at only specific subsets of the data. There are page level filters and visual filters, to remove outliers, look at only a subset of the data, and do a number of different things!
+
+6. Click off of the graphic to ‘start over’ and make a new graphic with new fields, and there is no limit to fields that can be added to the canvas.
+
+Also, link multiple visualizations on one page together to see relationships. Once 2 visualizations are created, click on a visualization, and then hit the Format button at the top of the application, then Edit Interactions. Notice there are two or more items on every other visualization on the page. This provides an example what happens when clicking an item on the first visualization: to filter the second visualization, highlight the differences, or do nothing. This allows visibility of the see relationships between items that otherwise would be difficult to see.
+
+7. Next, on each of the graphs just created, hover and select from the menu in the upper right “filter” “highlight” “remove”. Clicking on one feature initiates its interaction with everything else.
+
+Another option is to set up “drill down” visualizations, typically this works best with data organized by date values. A good example is of the business entities dataset on our [data explorations page](http://gocode.colorado.gov/data/data-exploration-examples/).
+
+8. Multiple datasets can be joined or “mashed”, as long as they have a field with a common column that can be joined on.This tool allows people to explore the data and see patterns that would not be readily apparent by typical filters and browsing.
+
+9. To publish the visualization, embed it as an iframe.
+
+For questions about PowerBI or other data tools, please reach out on the #tech-support channel in the Go Code Colorado slack team. Also remember the goal isn’t to display information, CIM already does that. The goal is to help business and to answer questions for business decision makers, not display raw data in pretty colors. These tools work well to explore and visualize data, but the analysis involved in the extraction of information from the data still requires the work of dedicated data scientists, mappers and entrepreneurs!
