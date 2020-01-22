@@ -1,8 +1,6 @@
 ![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 # Liquor License Data
 
-**Last updated:** January 20, 2020
-
 ## Liquor License Enforcement Division Data
 
 Seven datasets are available on the Colorado Information Marketplace. The first three (1-3) are related with fields in common, see more below. The second three (4-6) are thematically similar as they generally relate to liquor licenses issued for events. The seventh dataset stands alone as a Compliance Report.
