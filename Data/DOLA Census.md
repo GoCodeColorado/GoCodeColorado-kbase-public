@@ -2,8 +2,6 @@
 
 # Census Data for Go Code Colorado
 
-**Last Updated:** 01/20/2020
-
 Hello Go Coders! Welcome to the Census Data Tutorial! There are TONS of Census resources on the Colorado Information Marketplace (CIM) - read on to find out why!
 
 Some stuff is competition specific, some is not. Give it a read-through, we promise you won&#39;t regret it if you do. Happy Data Wrangling!
