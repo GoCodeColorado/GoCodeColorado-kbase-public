@@ -3,8 +3,6 @@
 
 # CDLE Oil and Public Safety Data
 
-**Last Updated:** 01/17/2020
-
 **The Colorado Department of Labor &amp; Employment** (CDLE) connects job seekers with great jobs, provides an up-to-date and accurate picture of the economy to help decision making, assists workers who have been injured on the job, ensures fair labor practices, helps those who have lost their jobs by providing temporary wage replacement through unemployment benefits, and protects the workplace - and Colorado communities - with a variety of consumer protection and safety programs. Find their website at [**https://www.colorado.gov/cdle**](https://www.colorado.gov/cdle).
 
 Within the Colorado Department of Labor &amp; Employment, **the Division of Oil and Public Safety** (OPS) successfully partners with regulated business owners and operators in Colorado to protect the public and our environment by ensuring the safe storage and use of fuel products and explosives and the safe operation of amusement rides, boilers and conveyances.Find their website at [**https://www.colorado.gov/ops**](https://www.colorado.gov/ops).
