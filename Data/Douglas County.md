@@ -1,8 +1,6 @@
 ![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 ![dougco_logo](./images/dougco_logo.png)
 
-**Last updated:** 01/21/2020
-
 # Douglas County Data
 
 Douglas County is located south of Denver, with its county seat in Castle Rock. DougCo has [its own public data website](https://data.douglas.co.us/), and much of its data can be found on the [CIM](https://data.colorado.gov/browse?federation_filter=1222).
