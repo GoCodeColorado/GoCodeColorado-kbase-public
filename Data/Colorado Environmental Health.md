@@ -1,8 +1,6 @@
 ![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 # Data for Environmental Health
 
-**Last Updated:** 01/20/2020
-
 Data about Environmental Health is actually somewhat of an anomaly. There are few accurate and reliable sources of data, because, quite simply, the rule that correlation is not causation dictates many limitations for the use. What isn&#39;t ruled out of usefulness from that scenario is removed because of personally identifiable information. That being said, this assemblage of a variety of health-related datasets is an expansive view of what may be health-related as many of these datasets fall in the environmental health area.
 
 The mission at Go Code Colorado is to make public data more accessible and useful for informed business decision making. We do that primarily through publishing state-level data to the state&#39;s open data platform, the Colorado Information Marketplace. But we know data in combination is key so we look at all kinds of data sources when considering analysis. The datasets highlighted in **RED** are our featured datasets--that we have assisted in publishing. The blue highlight is for community resources we are aware of.
