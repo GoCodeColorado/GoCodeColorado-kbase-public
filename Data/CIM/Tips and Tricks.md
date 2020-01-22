@@ -162,7 +162,9 @@ Fields
 Below is an example of the fields are available on the API: CDHE - Degrees Awarded API.
 
 **Field Name**: year
+
 **Human Name**: year
+
 **Type**: [number](https://dev.socrata.com/docs/datatypes/number.html#,)
 
 Examples
