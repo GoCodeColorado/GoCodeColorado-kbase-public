@@ -12,7 +12,9 @@ Produced by Colorado Department of Public Health and Environment, this document 
 **Description**: Point geometry feature class representing known Colorado Drug Treatment Program Resource locations (Methadone Clinics and Narcotic Addiction Treatment Programs), developed directly from address information obtained from the Office of Emergency Preparedness and Response, Colorado Department of Public Health and Environment, in 2017.
 
 CIM Link to Data: [Colorado Drug Treatment Programs and Resources](https://data.colorado.gov/Health/CDPHE-Colorado-Drug-Treatment-Programs-and-Resourc/ic4p-uss4)
+
 External Link to Data: http://data-cdphe.opendata.arcgis.com/datasets/cdphe-colorado-drug-treatment-programs-and-resources
+
 Tags/Keywords: cdphe, gis, colorado, facilities, health, drug treatment, gocodecolorado
 
 ### Colorado Household Medication Take-Back Program Locations
