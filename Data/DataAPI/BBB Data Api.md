@@ -1,5 +1,5 @@
 ![gcc_2020_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
-![bbb_1](./images/bbb_1.PNG)
+![bbb_1](./images/BBB_1.PNG)
 
 # Quick Start
 
