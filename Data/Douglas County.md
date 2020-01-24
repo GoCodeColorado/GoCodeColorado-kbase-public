@@ -27,17 +27,18 @@ If you have ever used the Colorado Information Marketplace (CIM), then you will 
 Metadata can be found on DougCo&#39;s website by clicking the &quot;About&quot; tab while viewing any dataset.
 ![dougco_meta](./images/dougco_meta.jpg)
 
-## Douglas County Roof Permits
+## Wages Annual Average
 
-This dataset contains building, roofing, electrical, mechanical, demolition, and driveway issued [permits for Douglas County](https://data.douglas.co.us/Economic/Roof-permit/3f4j-vyeh). City-issued permits are not in this dataset. The dataset tracks permits issued dating back to January of 1991, which makes this dataset somewhat older than many other available datasets.
-![dougco_data](./images/dougco_data.jpg)
+This dataset contains average annual weekly wages for jobs in Douglas County, by industry, from 2001 through 2018 [permits for Douglas County](https://gis-dougco.opendata.arcgis.com/datasets/douglas-wages-annual-average).
 
-The codes in these 5 fields are shown on the pdf document to be Block Code &quot;B.&quot; The codes for Block code are shown on page 7 of the pdf under &quot;B.HARMFULEVENTSEQUENCE.&quot; There are codes 01 through 40, and the following codes relate specifically to ped or bike:
+![dougco_data](./images/dougco_data.PNG)
 
-## All Permit Data Douglas County
+## Residential Sales Core Logic
 
-DougCo has published [a dataset](https://data.douglas.co.us/Economic/Map-View-of-All-Permit-Data/3t6c-neyb) that contains building, roofing, electrical, mechanical, demolition, and driveway issued permits for Douglas County. Town of Castle Rock and Town of Parker permits are also in this dataset. Addition of other city permit data is planned. This dataset is similar to the DougCo Roof Permits Dataset, with they key differences being that it contains geospatial data and more permitting categories outside of roofing. Geospatial attributes include address, city, state, zip code, jurisdiction, and location in decimal degrees. The data is available for export in csv, tsv, xml, JSON, rdf, and rff format.
-![dougco_map](./images/dougco_map.jpg)
+Douglas County has a [dataset](https://gis-dougco.opendata.arcgis.com/datasets/douglas-residential-sales-corelogic) about residential sales in Douglas County by Quarter. It could be interesting to pair this dataset with the previous!
+
+
+![dougco_data_2](dougco_data_2.PNG)
 
 
 ## Douglas County Alexa Requests
