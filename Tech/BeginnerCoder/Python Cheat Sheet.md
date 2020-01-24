@@ -1,7 +1,5 @@
 ![gcc_2020_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 
-<img align="center" width="100" height="100" src="./images/python_1.PNG">
-
 ![python_1](./images/python_1.PNG)
 
 Python is great for working with data, and is rapidly gaining popularity for lots of other things too!  
