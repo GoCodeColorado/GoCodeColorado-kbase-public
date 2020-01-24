@@ -38,7 +38,7 @@ This dataset contains average annual weekly wages for jobs in Douglas County, by
 Douglas County has a [dataset](https://gis-dougco.opendata.arcgis.com/datasets/douglas-residential-sales-corelogic) about residential sales in Douglas County by Quarter. It could be interesting to pair this dataset with the previous!
 
 
-![dougco_data_2](dougco_data_2.PNG)
+![dougco_data_2](./images/dougco_data_2.PNG)
 
 
 ## Douglas County Alexa Requests
