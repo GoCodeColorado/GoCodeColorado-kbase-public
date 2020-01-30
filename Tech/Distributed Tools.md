@@ -1,8 +1,8 @@
 ![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
 
-#Distributed Tools
+# Distributed Tools
 
-###Collaborative Engagement in Google Docs
+### Collaborative Engagement in Google Docs
 
 Google Docs and their online suite are great for team collaboration and provide versioning and capture historical changes online. Create a single document or spreadsheet send it to your teammates and collaborate from anywhere.
 
