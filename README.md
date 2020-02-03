@@ -1,7 +1,6 @@
 # Go Code Colorado Public Knowledge Base
 
 Resources for participants in Go Code Colorado. There are:
-  - Resources for Judging
   - Resources for Participants
   - How to setup your repository
   - Data references
