@@ -16,7 +16,7 @@ Plot.ly has statistical and more options to explore the data at a deeper level. 
 
 ### Carto
 
-CARTO is a great Software as a Service (SaaS) for geospatial data. There is a free account tier, which contains 250mb of space. This is enough for a lot of datasets, and it will allow for exploration of geospatial datasets in a variety of ways. For more info, check out their [tutorials](https://carto.com/help/tutorials/your-account/). GoCode Colorado Participants can get extended access to CARTO, go to the #carto channel on slack to get access.
+CARTO is a great Software as a Service (SaaS) for geospatial data. There is a free account tier, which contains 250mb of space. This is enough for a lot of datasets, and it will allow for exploration of geospatial datasets in a variety of ways. For more info, check out their [tutorials](https://carto.com/help/tutorials/your-account/).
 
 ![cim_viz_3](./images/cim_viz_3.PNG)
 
