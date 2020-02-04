@@ -2,7 +2,7 @@
 
 # Helpful aids for using the Colorado Information Marketplace:
 
-Here you will find useful information for using CIM effectively. Here are the different resources in this folder:
+Here you will find useful information for using CIM effectively. Here are the different resources in this folder: 
 
 | File Name | Description |
 | :------------- | :------------- |
