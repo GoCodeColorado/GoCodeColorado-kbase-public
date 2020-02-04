@@ -1,6 +1,6 @@
 ![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)\
 
-![carto_1](./images/carto_1.png)
+![carto_1](./images/carto_1.PNG)
 
 # CARTO for GoCode Colorado
 
@@ -37,7 +37,7 @@ CARTO now has a [Developer Center](https://carto.com/developers) to aid develope
 
 It’s worth checking out the [CARTO Blog](https://carto.com/blog/), as it often highlights ways CARTO can be integrated into “real” use cases. The CARTO blog has an abundance of blog posts for categories such as Technology, Data Science, Customer Stories, and news about CARTO as a company.
 
-##FAQ’s
+## FAQ’s
 
 **How do I share my data architecture or other visualization of the Carto platform to include in my final competition presentation?**
 This is an important question with an easy answer! Build the data architecture in Carto, and then export to a diagram.
@@ -54,11 +54,6 @@ Embedding a map is easy with CARTO’s share and publication options. Here is a 
 
 No, CARTO is an ecosystem designed to avoid lock-in. Data inside of CARTO can be analyzed, visualized, and used directly from the database using our SQL API. The SQL API allows data to live in CARTO's cloud, but may be used with any library elsewhere even if it's not affiliated with CARTO. In addition, CARTO is open source. This makes it easy to leverage data from there or anywhere. Alternately, data loaded into CARTO does not have to remain in CARTO. Analysis and data manipulations can be performed and then exported to a wide range of formats including, but not limited to CSV, Shapefile, and GeoJSON.
 
-
-**How do teams get it or use it?**
-The first step is to navigate to the Carto site and open an account. If they already have an account they would like to use, we will upgrade that account. So definitely sign up for a Carto account - the Data Team is ready to upgrade accounts - so the exploring can begin!
-
-To get an account upgraded, navigate to the #Carto Slack Channel to find the form required to get started with the 30-day trial.
 
 **What exactly is Carto?**
 
