@@ -31,7 +31,7 @@ The short answer is that it can be very difficult to get data from the ACS/Censu
 ## Geography
 
 All Census data for the Decennial Census is available at all levels of Census Geography. The chart is perhaps the best method to envision the varying scales of Census geography, with Census Blocks being the smallest unit of data aggregation. Census Blocks are not released with every ACS due to their scale, and are therefore not included with each year&#39;s update of cleaned data published to CIM.
-![dola_1](./image/dola_1.jpg)
+![dola_1](./images/dola_1.jpg)
 
 
 ## Creation of Census Data for CIM
