@@ -14,7 +14,7 @@ If you don't know how to get setup in Slack for the competition, please go to [o
   2. Type: `@Go Code Setup add member`
   3. Follow prompts from there
 
-Need more help tag any of these folks in the github channel:
+Need more help? Tag any of these folks in the github channel:
 
 `@van wallace`, `@Preston Sharpe`, `@margaretrms`, `@James Brown`, `@rydaly`, `@devinreams`
 
@@ -54,7 +54,7 @@ Here's an example team. These photos are from GitHub.
 
 - To use GitHub usernames with the bot, don’t put an “@-sign” in front of their name. See screen shot below for entering usernames into Slack.
 
-![sample_adding_team_members]('./images/git_4.PNG')
+![sample_adding_team_members](./images/git_4.PNG)
 
 Check out James interfacing directly with the bot and sailing smoothly to a new private repo in Go Code Colorado with a Project Board designed for you to succeed!
 
