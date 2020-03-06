@@ -42,7 +42,7 @@ Each row is a month, year, county, revenues for record, portion of tax retained 
 
 The last month that this dataset was published by CDOR was October 2019. CIM currently has data from 02/2014 -  10/2019.  Special note, there is currently no ‘ID’ column of this dataset.
 
-###[Licensed Marijuana Businesses in Colorado](https://data.colorado.gov/Business/Licensed-Marijuana-Businesses-in-Colorado/sqs8-2un5)
+### [Licensed Marijuana Businesses in Colorado](https://data.colorado.gov/Business/Licensed-Marijuana-Businesses-in-Colorado/sqs8-2un5)
 
 This dataset provides the license information and addresses of all MED Licensed Medical and Retail businesses in Colorado as of Jan 1 2020, from the Colorado Department of Revenue.
 
@@ -53,4 +53,4 @@ Other fields are specific to the license, such as the category and the certifica
 Here is a quick visualization for graphs. Note these two do not share a y-axis.
 
 
-![Ten Counties with the Most Licensed Facilities](./images.mari_rev_2.PNG)
+![Ten Counties with the Most Licensed Facilities](./images/mari_rev_2.PNG)
