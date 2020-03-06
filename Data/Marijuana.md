@@ -16,12 +16,15 @@ This is updated monthly and is two months behind. For example, the March 2020 up
 **NL**: not listed in source data
 **NR**: Not reported due to personally identifiable information
 
+Here's an example of quick visualization to compare recreational revenue for 3 counties during 2019.
 
-### [Marijuana Sales Tax Revenue in Colorado](https://data.colorado.gov/Revenue/Marijuana-Sales-Tax-Revenue-in-Colorado/3sm5-jtur)
+![pueblo, mesa, summit revenue comparison line graph](./images/mari_rev_1.PNG)
+
+### [State Sales Tax Revenue from Marijuana in Colorado](https://data.colorado.gov/Revenue/State-Sales-Tax-Revenue-from-Marijuana-in-Colorado/3sm5-jtur)
 
 This is updated monthly and is one month behind. For example, the March 2020 update’s new data is from February 2020. This is the tax at the standard rate of 2.9%. It’s worth noting that this dataset stopped reporting the recreational tax revenue after a certain time and ‘NR’ counties (see above). Each row represents sales tax revenues for medical and recreational marijuana sales for a given month, year, and county.
 
-### [Marijuana Special Tax Revenue by County in Colorado](https://data.colorado.gov/Revenue/Marijuana-Special-Tax-Revenue-by-County-in-Colorad/v9m8-x8dh)
+### [State Retail Marijuana Sales Tax Revenue by County in Colorado](https://data.colorado.gov/Revenue/State-Retail-Marijuana-Sales-Tax-Revenue-by-County/v9m8-x8dh)
 
 This is the special tax data that is different than the data mentioned above. Per the CDOR:
 
@@ -35,8 +38,19 @@ These differences and proportion of tax revenue is reflected in this dataset.
 Each row is a month, year, county, revenues for record, portion of tax retained by county, special tax rate, list of counties for counties designated as "Remainder of State", and a code if the data was reported as "NR" (not reported) due to customer personal information.
 
 
-### [Marijuana Special Tax Revenue by City in Colorado](https://data.colorado.gov/Revenue/Marijuana-Special-Tax-Revenue-by-City-in-Colorado/ehk3-i5tr)
+### [State Retail Marijuana Sales Tax Revenue by City in Colorado](https://data.colorado.gov/Revenue/State-Retail-Marijuana-Sales-Tax-Revenue-by-City-i/ehk3-i5tr)
 
 The last month that this dataset was published by CDOR was October 2019. CIM currently has data from 02/2014 -  10/2019.  Special note, there is currently no ‘ID’ column of this dataset.
 
-### Licensed Facilities
+###[Licensed Marijuana Businesses in Colorado](https://data.colorado.gov/Business/Licensed-Marijuana-Businesses-in-Colorado/sqs8-2un5)
+
+This dataset provides the license information and addresses of all MED Licensed Medical and Retail businesses in Colorado as of Jan 1 2020, from the Colorado Department of Revenue.
+
+Each row is a different facility with information about their business (name, address, city, zip code, etc). The ‘DBA’ column stands for “Doing Business As” and might be different than the ‘Licensee’ column.
+
+Other fields are specific to the license, such as the category and the certification (only used for testing facilities).
+
+Here is a quick visualization for graphs. Note these two do not share a y-axis.
+
+
+![Ten Counties with the Most Licensed Facilities](./images.mari_rev_2.PNG)
