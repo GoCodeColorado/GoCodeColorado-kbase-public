@@ -29,7 +29,7 @@ All of the above datasets come from the same database, and therefore are joinabl
 
 ## Field Descriptions
 
-The field descriptions for these datasets can be found towards the bottom of the page under the 'Columns in this Dataset' section. Be sure to check out the [field descriptions csv](./Field_Descriptions/CIM_FieldDescriptions.csv) on GitHub. This file contains a comprehensive list of all field descriptions for datasets on CIM that have been published for the purpose of GoCode. These datasets can be viewed by selecting 'Tags' on [gocodecolorado](https://data.colorado.gov/browse?tags=gocodecolorado).
+The field descriptions for these datasets can be found towards the bottom of the page under the 'Columns in this Dataset' section. Be sure to check out the [field descriptions csv](./Field_Descriptions/CIM_FieldDescriptions.csv) on GitHub. This file contains a comprehensive list of all field descriptions for datasets on CIM that have been published for the purpose of GoCode.
 
 
 
