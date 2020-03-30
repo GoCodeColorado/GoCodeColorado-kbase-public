@@ -29,13 +29,13 @@ All of the above datasets come from the same database, and therefore are joinabl
 
 ## Field Descriptions
 
-The field descriptions for these datasets can be found towards the bottom of the page under the 'Columns in this Dataset' section. Be sure to check out the [field descriptions csv](./Field_Descriptions/CIM_FieldDescriptions.csv) on GitHub. This file contains a comprehensive list of all field descriptions for datasets on CIM that have been published for the purpose of GoCode.
+The field descriptions for these datasets can be found towards the bottom of the page under the 'Columns in this Dataset' section. Be sure to check out the [field descriptions csv](./Field_Descriptions/CIM_FieldDescriptions.csv) on GitHub. This file contains a comprehensive list of all field descriptions for datasets on CIM that have been published for the purpose of GoCode. These datasets can be viewed by selecting 'Tags' on [gocodecolorado](https://data.colorado.gov/browse?tags=gocodecolorado).
 
 
 
 ## LMI Metadata and Data Sources
 
-These datasets utilize the North American Industry Classification System ([NAICS](https://www.census.gov/eos/www/naics/)). The NAICS is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy. The CDLE has its own program that assigns NAICS codes. This program calls employers in the state to verify the data. The CDLE also utilizes the below sources to create their datasets/databases. Reference the [PowerBI doc](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/labor_market/Tech/PowerBI_GoCodeColorado.md) on GitHub to see an example of working with LMI data.
+These datasets utilize the North American Industry Classification System ([NAICS](https://www.census.gov/eos/www/naics/)). The NAICS is the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data related to the U.S. business economy. The CDLE has its own program that assigns NAICS codes. This program calls employers in the state to verify the data. The CDLE also utilizes the below sources to create their datasets/databases.
 
 ![cdle_powerBI](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Data/images/cdle_powerBI.jpg)
 
