@@ -86,13 +86,13 @@ The statute's requirements are consistent with the Executive Order that original
 
 As required by CRS 24-72.4-103(1)(h), the following list provides a description of the data excluded from TOPS, the basis for excluding the data, and the agency requesting the data be excluded (contact information is provided).  This information was provided by individual State agencies and has not been changed or edited in any way.
 
-**<span style="text-decoration:underline;">Department of Human Services (I***)</span>**
+**Department of Human Services (I***)**
 
 The Colorado Department of Human Services (CDHS) has had the detail (Vendor Name) excluded for two object codes due to Protected Health Information (PHI) concerns under the federal Health Insurance Portability and Accountability Act (HIPAA).  Summary dollar amounts are still available to provide the public with the amounts spent for these two functions. The two object (expenditure) codes are patient and client care expenses called Care and Subsistence - Client Benefits and Care and Subsistence - Rent to Clients.  Both of these expenditure codes represent payments made directly to clients/patients.  The vendor (client/patient) name combined with the title of the object code identifies the vendor as a client/patient which is PHI and cannot be disclosed to the public without a release from the client/patient under the health information privacy law.  There are large fines for making protected health information available to the public.  By noting the vendor name as "confidential" for these two expenditure codes, all client/patient protected health information remains secure and the public still has access to the amounts paid using these expenditure codes.
 
 **Contact:** Valri Gimple, 303-866-5688
 
-**<span style="text-decoration:underline;">Judicial Department (JAAA)</span>**
+**Judicial Department (JAAA)**
 
 The Colorado Judicial Department requests that the juror names associated with payments to jurors be excluded from TOPS.  The reasons for this are:
 
@@ -115,7 +115,7 @@ Myra Dukes, 303-837-3693
 
 Confidential - Experts and/or Witnesses in Judicial Proceedings
 
-**Basis**: Rule of Professional Conduct 1.6
+**Basis:** Rule of Professional Conduct 1.6
 
 CRS 13-90-107
 
@@ -171,21 +171,21 @@ Melissa Moynham, 720.508.6537
 
 **Fund 2690:** Witness Protection Fund [CRS 24-33.5-106]
 
-**Description of Exclusion**:  Vendor information has been excluded from Transparency Online Project System.
+**Description of Exclusion:**  Vendor information has been excluded from Transparency Online Project System.
 
-**Basis for Exclusion: ** This fund accounts for payments to individuals in the Witness Protection Program and disclosure of a witness's name could impact their personal safety, as well as the safety of family members.  Monies expended are made in connection with protecting the safety of a witness "...during or subsequent to an official proceeding or investigation that involves great public interest..."  Since the Colorado Criminal Justice Records Act covers records of all law enforcement agencies, not just those within the CDPS, witness protection fund records are properly outside the objectives of Transparency Online Project System and should be excluded.  The Department is statutorily required to submit an annual report to the General Assembly, and upon submission, the report becomes a public record on deposit with the Colorado State Publications Library.
+**Basis for Exclusion:** This fund accounts for payments to individuals in the Witness Protection Program and disclosure of a witness's name could impact their personal safety, as well as the safety of family members.  Monies expended are made in connection with protecting the safety of a witness "...during or subsequent to an official proceeding or investigation that involves great public interest..."  Since the Colorado Criminal Justice Records Act covers records of all law enforcement agencies, not just those within the CDPS, witness protection fund records are properly outside the objectives of Transparency Online Project System and should be excluded.  The Department is statutorily required to submit an annual report to the General Assembly, and upon submission, the report becomes a public record on deposit with the Colorado State Publications Library.
 
-**Fund 2060: ** State Patrol Contraband Fund [CRS 24-33.5-225]
+**Fund 2060:** State Patrol Contraband Fund [CRS 24-33.5-225]
 
-**Description of Exclusion: ** Vendor information has been excluded from Transparency Online Project System. 
+**Description of Exclusion:** Vendor information has been excluded from Transparency Online Project System. 
 
-**Basis for Exclusion: ** Statute requires the Department to submit a report annually on contraband funds and limits the reporting to object codes.  The published report does not reflect vendor names, amounts, or dates of transactions.  This financial data should be excluded from the Transparency Online Project System, as the annual report required by statute is already a public record on deposit with the Colorado State Publications Library.
+**Basis for Exclusion:** Statute requires the Department to submit a report annually on contraband funds and limits the reporting to object codes.  The published report does not reflect vendor names, amounts, or dates of transactions.  This financial data should be excluded from the Transparency Online Project System, as the annual report required by statute is already a public record on deposit with the Colorado State Publications Library.
 
-**Fund 12D0: ** Colorado Bureau of Investigation Contraband Fund [CRS 24-33.5-415.2]
+**Fund 12D0:** Colorado Bureau of Investigation Contraband Fund [CRS 24-33.5-415.2]
 
-**Description of Exclusion: ** Vendor information has been excluded from Transparency Online Project System.
+**Description of Exclusion:** Vendor information has been excluded from Transparency Online Project System.
 
-**Basis for Exclusion: ** Statute requires the Department to submit a report annually on contraband funds and limits the reporting to object codes.  The published report does not reflect vendor names, amounts, or dates of transactions.  This financial data should be excluded from the Transparency Online Project System, as the annual report required by statute is already a public record on deposit with the Colorado State Publications Library.
+**Basis for Exclusion:** Statute requires the Department to submit a report annually on contraband funds and limits the reporting to object codes.  The published report does not reflect vendor names, amounts, or dates of transactions.  This financial data should be excluded from the Transparency Online Project System, as the annual report required by statute is already a public record on deposit with the Colorado State Publications Library.
 
 **Contact:** 
 
@@ -205,7 +205,7 @@ Section 24-72.4-103(1)(g)(IV) requires exclusion from TOPS of information that t
 
 The data regarding the cost of experts retained by the Division of Professions and Occupations is not excluded.  Instead, each program provides aggregate data as described above.  Section 24-72.4-103(1)(i)(I) permits the Division through TOPS to provide aggregated information where access to each individual transaction is likely to hinder, rather than foster, the goal of accountability and transparency.  As described above, the goal of accountability and transparency would be hindered rather than fostered if the identities of individual experts were disclosed through TOPS.
 
-**Contact: ** 
+**Contact:** 
 
 Lauren Larson, Director, 303-894-7729
 
@@ -219,7 +219,7 @@ Marcia Waters, Director, 303-894-2422
 
 For the Division of Gaming in the Department of Revenue, the vendors related to gaming licensee background investigations are changed based on C.R.S. 24-72-204(1)(a) and (2)(a)(VIII)(B), the Colorado Open Records Act, which states that records of the expenditure of public moneys on investigations is denied inspection.  Also refer to C.R.S. 12-47.1-527(1), which states that any information relating to the background investigations of licensees, including credit or financial information, is confidential.
 
-**Contact: **
+**Contact:**
 
 brenda.davis@state.co.us
 
@@ -260,11 +260,6 @@ Bob Jaros, 303-866-3765
 #### #1 Use the “Contains” operator when filtering
 
 The “Vendor Legal Name - Not Redacted” field includes the vendor name and the assigned CORE vendor ID.  Use the “Contains” operator together with a portion of the vendor name that you know.  Use the query results to narrow your search down to a specific vendor name or ID and refilter.  Use the same technique Account Name and other fields.
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image1.png "image_tooltip")
 
@@ -2104,21 +2099,19 @@ Statement of Revenues, Expenses, and Changes in Fund Net Position Proprietary Fu
 # Provider Selected Views
 
 
-    The DPA has created filtered views of the master dataset to facilitate easier understanding of the data. Views can be discovered in a couple ways. The easiest way to find selected views of the dataset is by navigating to the dataset landing page and scrolling down to the bottom, where views are displayed under “Related Content Using this Data”.
+The DPA has created filtered views of the master dataset to facilitate easier understanding of the data. Views can be discovered in a couple ways. The easiest way to find selected views of the dataset is by navigating to the dataset landing page and scrolling down to the bottom, where views are displayed under “Related Content Using this Data”.
 
 
 #### SOC Vendor Detail
 
-		[https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns](https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns)
+[https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns](https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns)
 
 
-#### 
-    SOC Statement Summary
+#### SOC Statement Summary
 
-		[https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns](https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns)
+[https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns](https://data.colorado.gov/Government/SOC-Vendor-Detail/hcur-gnns)
 
 
-#### 
-    SOC Daily Load Tables
+#### SOC Daily Load Tables
 
-		[https://data.colorado.gov/Government/SOC-Statement-Summary/hj4j-h5pn](https://data.colorado.gov/Government/SOC-Statement-Summary/hj4j-h5pn)
+[https://data.colorado.gov/Government/SOC-Statement-Summary/hj4j-h5pn](https://data.colorado.gov/Government/SOC-Statement-Summary/hj4j-h5pn)
