@@ -3,22 +3,25 @@
 
 # Table of Contents
 
-[Overview](#overview)
-    [History](#history)
-    [CIM - Colorado Information Marketplace](#cim---colorado-information-marketplace)
-    [Contents and updates](#contents-and-updates)
-    [Data prior to fiscal year 2015](#data-prior-to-fiscal-year-2015)
-    [Disclaimers](#disclaimers)
+* [Overview](#overview)
+    * [History](#history)
+    * [CIM - Colorado Information Marketplace](#cim---colorado-information-marketplace)
+    * [Contents and updates](#contents-and-updates)
+    * [Data prior to fiscal year 2015](#data-prior-to-fiscal-year-2015)
+    * [Disclaimers](#disclaimers)
+
 [Inclusions and exclusions](#inclusions-and-exclusions)
     [Tips](#tips)
     [#1 Use the “Contains” operator when filtering](#1-use-the-contains-operator-when-filtering)
     [#2 Export to Excel](#2-export-to-excel)
     [#3 Expand your search to Appropriation or Fund](#3-expand-your-search-to-appropriation-or-fund)
+
 [Important terms, definitions, and lists](#important-terms-definitions-and-lists)
     [Cabinet](#cabinet)
     [Account Name: Revenue](#account-name-revenue)
     [Account Name: Expenditures](#account-name-expenditures)
     [Financial statements](#financial-statements)
+
 [Provider Selected Views](#provider-selected-views)
     [SOC Vendor Detail](#soc-vendor-detail)
     [SOC Statement Summary](#soc-statement-summary)
