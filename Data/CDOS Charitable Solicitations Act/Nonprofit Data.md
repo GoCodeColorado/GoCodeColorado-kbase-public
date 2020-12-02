@@ -19,8 +19,6 @@ Charitable organization requests for an extension of the deadline for filing a f
 | extendedDueDate | New due date: three months added to renewal date |
 | dateFiled | Date request was created |
 | fiscalYearend | Fiscal year-end date request is being asked for |
-|
- | Either 1 or 2; if form 990-T corporation, then 2nd extension is not allowed |
 | extensionRequestReason | Reason for extension request |
 | IRSRequires990 | Does IRS require organization to file an Exempt Organization Return? |
 | form8868Filed | Did you file a Form 8868 with the IRS? |
