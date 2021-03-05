@@ -1,5 +1,4 @@
-![gcc_logo_2020](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
-
+![gcc_logo_2021](../../Images/GCC_Logo_2021.png)
 ![oedit_1](./images/oedit_1.PNG)
 
 ![oedit_2](./images/oedit_2.PNG)
