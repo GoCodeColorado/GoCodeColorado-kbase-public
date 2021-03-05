@@ -1,4 +1,4 @@
-![gcc_logo_2021](../Images/GCC_Logo_2021.png)
+![gcc_logo_2021](../../Images/GCC_Logo_2021.png)
 ![bbb_1](./images/BBB_1.PNG)
 
 # Quick Start
