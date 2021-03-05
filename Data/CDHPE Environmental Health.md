@@ -1,4 +1,4 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
+![gcc_logo_2021](../../Images/GCC_Logo_2021.png)
 # Data for Environmental Health
 
 Data about Environmental Health is actually somewhat of an anomaly. There are few accurate and reliable sources of data, because, quite simply, the rule that correlation is not causation dictates many limitations for the use. What isn&#39;t ruled out of usefulness from that scenario is removed because of personally identifiable information. That being said, this assemblage of a variety of health-related datasets is an expansive view of what may be health-related as many of these datasets fall in the environmental health area.
