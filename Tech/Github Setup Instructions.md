@@ -1,4 +1,4 @@
-![gcc_2020_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
+![gcc_logo_2021](../Images/GCC_Logo_2021.png)
 
 # 2020 GitHub Setup Instructions and Tips
 
