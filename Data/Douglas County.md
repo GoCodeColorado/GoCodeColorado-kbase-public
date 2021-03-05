@@ -1,4 +1,4 @@
-![gcc_logo_2019](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Images/GC20_Logo_Condensed_transp%20-%20Copy.png)
+![gcc_logo_2021](../Images/GCC_Logo_2021.png)
 ![dougco_logo](./images/dougco_logo.png)
 
 # Douglas County Data
