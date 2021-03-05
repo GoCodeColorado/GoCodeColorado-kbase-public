@@ -1,4 +1,4 @@
-![gcc_logo_2021](../../Images/GCC_Logo_2021.png)
+![gcc_logo_2021](../Images/GCC_Logo_2021.png)
 ![cdle_logo](https://github.com/GoCodeColorado/GoCodeColorado-kbase-public/blob/master/Data/images/cdle_logo.jpg)
 # CDLE Resources - Labor Market Information Data
 
