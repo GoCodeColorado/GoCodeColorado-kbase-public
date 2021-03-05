@@ -28,7 +28,7 @@ API endpoint for location, description, dates, and contact information for event
 
 ### Notes
 
-Date strings can be anything that can be parsed by php's strtotime function. 'Today', 'Next Week', 'First Thursday of last Month', '2018-01-04' are valid. See this [documentation](Data.doi.gov/harvest) for more information
+Date strings can be anything that can be parsed by php's strtotime function. 'Today', 'Next Week', 'First Thursday of last Month', '2018-01-04' are valid. See this [documentation](https://data.doi.gov/harvest) for more information
 
 start dates are automatically altered to start on the previous Monday, unless start actually falls on a Monday
 
