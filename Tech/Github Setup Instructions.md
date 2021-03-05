@@ -2,7 +2,7 @@
 
 # 2020 GitHub Setup Instructions and Tips
 
-If you don't know how to get setup in Slack for the competition, please go to [our website](https://gocode.colorado.gov/compete/join-us-on-slack/)
+Get your invite for slack [here](https://communityinviter.com/apps/gocode/go-code-colorado).
 
 ### How To Setup Your Account
   1. Join #welcome-and-setup channel
