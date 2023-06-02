@@ -32,6 +32,7 @@ Paid Solicitors and Professional Fundraising Consultants Disclosed on Charity Re
 | **CIM Field Name** | **Description** |
 | --- | --- |
 | entityId | Entity ID |
+| documentId | The number assigned to each document a user files |
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | nameofPS-PFC-CCV | If solicitor is organization, name |
@@ -67,6 +68,7 @@ All names other than registered entity name under which charities, paid solicito
 | **CIM Field Name** | **Description** |
 | --- | --- |
 | entityId | Entity ID |
+| documentId | The number assigned to each document a user files |
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | otherName | Other name organization solicits under |
@@ -81,7 +83,7 @@ Charitable organizations data consisting of mailing address, phone, fax, website
 | --- | --- |
 | entityId | Entity ID |
 | entityType | Entity type: CO (Charitable Organization), PS (Paid Solicitor), or PFC (Professional Fundraising Consultant) |
-| documentId | Filing Id |
+| documentId | The number assigned to each document a user files | 
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | isParentOrganization | Identifies record as a branch, affiliate, or chapter of parent organization. |
@@ -114,6 +116,7 @@ Non-profit organization (NPO) data of registrants&#39; officers, directors, trus
 | --- | --- |
 | entityId | Entity ID |
 | entityType | Entity type: CO (Charitable Organization), PS (Paid Solicitor), or PFC (Professional Fundraising Consultant) |
+| documentId | The number assigned to each document a user files |
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | title | Title of officer or other key person |
@@ -180,6 +183,7 @@ Charities data consisting of a charitable organization&#39;s registration number
 | **CIM Field Name** | **Description** |
 | --- | --- |
 | entityId | Entity ID |
+| documentId| The number assigned to each document a user files|
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | filingDate | Filing Date |
@@ -197,7 +201,7 @@ Charitable Solicitations Registration Information Filed by Charities, Paid Solic
 | registrantTypeAbbr | Entity type: CO (Charitable Organization), PS (Paid Solicitor), or PFC (Professional Fundraising Consultant) |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | fein | Federal Employer Identification Number |
-| documentId | Accounting ID (Registration Number) |
+| documentId | The number assigned to each document a user files | 
 | amendmentEntityId | If filing type is Amendment, then filing ID of the record it is amending |
 | externalFilingFromNccs | If record is an external filing from NCCS or the IRS, then &#39;Y&#39; else &#39;N&#39; |
 | filingType | Filing type: Initial Registration, Initial Registration – Estimates, Amendment, Amendment – Estimates, Renewal, Reinstate Renewal, Extension, Fiscal Year Change, Estimate Extension, Exemption, Exemption Amendment, Financial Form |
@@ -427,6 +431,7 @@ Communication methods to be used in a particular solicitation campaign as listed
 | **CIM Field Name** | **Description** |
 | --- | --- |
 | entity\_id | Entity ID |
+| documentId | The number assigned to each document a user files|
 | org\_name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | sol\_type\_dscrp | Type of communication; i.e. door to door, direct mail, telephone, etc. |
 
@@ -452,6 +457,7 @@ Non-profit organizations (NPO) data consisting of authorized solicitation, and r
 | **CIM Field Name** | **Description** |
 | --- | --- |
 | entityId | Entity ID |
+| documentId| The number assigned to each document a user files|
 | fein | Federal Employer Identification Number |
 | name | Charitable Organization, Paid Solicitor or Professional Fundraising Consultant name |
 | stateAbbreviation | State abbreviation |
